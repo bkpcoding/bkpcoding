@@ -6,7 +6,7 @@
 ### About
 I am currently an Electronics and Communication Engineering Student at RVCE, Bangalore. Apart from coding and robotics, I love playing football, listening to music and podcast.
 Profile:
-- 🔭 I’m currently working on Object Tracking
+- 🔭 I’m currently working on Yocto Project
 - 🌱 I’m currently a Electronics and Communication Engineering Student
 - 👯 I’m looking to collaborate on Robotics, Computer vision and Reinforcement Learning Projects
 - 📫 How to reach me [Email](mailto:basavasagarkp.ec18@rvce.edu.in),[LinkedIn](https://www.linkedin.com/in/basavasagar-patil/), [Twitter](https://twitter.com/basavasagar18)

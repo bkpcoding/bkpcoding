@@ -4,7 +4,7 @@
 </p>
 
 ### About
-I am currently an Electronics and Communication Engineering Student at RVCE, Bangalore and a research intern at Inria. Apart from coding and robotics, I love playing football, listening to music and podcast.
+I am currently an Electronics and Communication Engineering Student at RVCE, Bangalore and a Research Intern at Inria. Apart from coding and robotics, I love playing football, listening to music and podcast.
 Profile:
 - 🔭 I’m currently working to reproduce a paper in RL
 - 🌱 I’m currently a Electronics and Communication Engineering Student

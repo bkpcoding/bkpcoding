@@ -10,7 +10,6 @@ Profile:
 - 🌱 I’m currently a Electronics and Communication Engineering Student
 - 👯 I’m looking to collaborate on Robotics, Computer vision and Reinforcement Learning Projects
 - 📫 How to reach me [Email](mailto:basavasagarkp.ec18@rvce.edu.in),[LinkedIn](https://www.linkedin.com/in/basavasagar-patil/), [Twitter](https://twitter.com/basavasagar18)
-- ⚡ Fun fact: Although I never danced on christmas eve in my school I used to bunk all my classes for it and no one ever knows that!!
 
 <details>
   <summary>Some Stats</summary>

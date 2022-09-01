@@ -8,7 +8,7 @@ I am currently an Electronics and Communication Engineering Student at RVCE, Ban
 Profile:
 - 🔭 I’m currently working to reproduce a paper in RL
 - 🌱 I’m currently a Electronics and Communication Engineering Student
-- 👯 I’m looking to collaborate on Robotics, Computer vision and Reinforcement Learning Projects
+- 👯 I’m looking to collaborate on Robotics and Reinforcement Learning Projects
 - 📫 How to reach me [Email](mailto:basavasagarkp.ec18@rvce.edu.in),[LinkedIn](https://www.linkedin.com/in/basavasagar-patil/), [Twitter](https://twitter.com/basavasagar18)
 
 <details>

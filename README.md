@@ -4,4 +4,4 @@
 
 ### About
 I am currently [UMich Robotics](https://robotics.umich.edu/) Masters student.
-[Email](mailto:bpatil@umich.edu),[LinkedIn](https://www.linkedin.com/in/basavasagar-patil/), [Twitter](https://twitter.com/basavasagar18)
+[Email](mailto:bpatil@umich.edu), [Twitter](https://twitter.com/basavasagar18)
